@@ -1,2 +1,2 @@
-# azure-openai-partner-day
+# Azure OpenAI Partner Day
 Links for attendees of Microsoft Azure OpenAI Partner Day
