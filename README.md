@@ -1,2 +1,3 @@
-# Azure OpenAI Partner Day
-Links for attendees of Microsoft Azure OpenAI Partner Day
+# Resources and Links for Microsoft Federal Parnters
+
+## Azure OpenAI Partner Day - 2023-04-27
