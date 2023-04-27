@@ -10,5 +10,6 @@
 
 ##### Azure OpenAI - Learning Resources
 * [Azure OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
+* [Prompt Engineering(https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/prompt-engineering)
 * [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/whatissk) | [SK GitHub Examples](https://github.com/microsoft/semantic-kernel/tree/main/samples)
 * [OpenAI Cookbook](https://github.com/openai/openai-cookbook/tree/main/examples)
